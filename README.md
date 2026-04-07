@@ -14,19 +14,19 @@ The project integrates:
 ---
 # 📚 Table of Contents
 
-- Project Overview
-- Machine Learning Workflow
-- Dataset Details
-- Dataset Statistics
-- Important Financial Indicators
-- System Architecture
-- Tech Stack
-- Dashboard Features
-- UI Screenshots
-- Project Structure
-- Running the Project
-- Future Improvements
-- Author
+- [📌 Project Overview](#-project-overview)
+- [🧠 Machine Learning Workflow](#-machine-learning-workflow)
+- [📊 Dataset Details](#-dataset-details)
+- [📈 Dataset Statistics](#-dataset-statistics)
+- [📊 Important Financial Indicators](#-important-financial-indicators)
+- [🏗 System Architecture](#-system-architecture)
+- [⚙ Tech Stack](#-tech-stack)
+- [🖥 Dashboard Features](#-dashboard-features)
+- [📸 Dashboard UI Screenshots](#-dashboard-ui-screenshots)
+- [📁 Project Structure](#-project-structure)
+- [🚀 Running the Project](#-running-the-project)
+- [🔮 Future Improvements](#-future-improvements)
+- [👨‍💻 Author](#-author)
 
 ---
 
