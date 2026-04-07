@@ -12,18 +12,6 @@ The project integrates:
 - Financial Risk Prediction
 
 ---
-
-# 📌 Project Overview
-
-Financial bankruptcy can cause severe losses for investors, creditors, and businesses.  
-Early prediction of bankruptcy risk helps organizations take preventive financial actions.
-
-This project builds a **machine learning model trained on financial indicators** to classify whether a company is likely to go bankrupt.
-
-The system provides an **interactive Streamlit dashboard** where users can input financial indicators and obtain instant predictions.
-
----
-
 # 📚 Table of Contents
 
 - Project Overview
@@ -41,6 +29,19 @@ The system provides an **interactive Streamlit dashboard** where users can input
 - Author
 
 ---
+
+# 📌 Project Overview
+
+Financial bankruptcy can cause severe losses for investors, creditors, and businesses.  
+Early prediction of bankruptcy risk helps organizations take preventive financial actions.
+
+This project builds a **machine learning model trained on financial indicators** to classify whether a company is likely to go bankrupt.
+
+The system provides an **interactive Streamlit dashboard** where users can input financial indicators and obtain instant predictions.
+
+---
+
+
 
 # 🧠 Machine Learning Workflow
 
